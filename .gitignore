@@ -1,0 +1,14 @@
+*.env
+*.log
+*.json
+*.txt
+*.yml
+
+
+/bundle/
+/logs/
+/plugins/
+/world/
+/world_nether/
+/world_the_end/
+server.properties
